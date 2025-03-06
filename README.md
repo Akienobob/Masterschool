@@ -3,17 +3,17 @@
 #### Zu diesem Projekt gehören folgende Dateien:
 - Jupyter Notebook TravelTideProjektTeil1.ipynb
 - Jupyter Notebook TravelTideProjektEDAundClustering.ipynb 
-#### - Eine PowerPoint-Präsentation MS TravelTidePP.pptx
-#### - eine Textdatei mit verwendeten SQL-Queries 
-#### - eine einseitige Zusammenfassung des Projekts 
-#### - Einzelne vorgefilterte Tabellen 
+- eine PowerPoint-Präsentation MS TravelTidePP.pptx
+- eine Textdatei mit verwendeten SQL-Queries 
+- eine einseitige Zusammenfassung des Projekts sowie ein dreiseitiger Projektbericht
+- einzelne vorgefilterte Tabellen 
     - hotels.csv
     - flights.csv
     - sessions.csv
     - users.csv
 ####  sowie die zusammengesetzte Tabelle 
 - session_merge.csv
- ####   - und ausgewählte User Features 
+ #### ausgewählte User Features 
  - user_features.csv 
 #### und die finale segmentierte Tabelle mit den neuen User-Gruppen 
 - sortierte_gruppen.csv 
